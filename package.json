@@ -1,0 +1,19 @@
+{
+  "name": "steet_talent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Lachira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "mdbootstrap": "^4.8.10",
+    "popper.js": "^1.16.0",
+    "swiper": "^5.1.0"
+  }
+}
